@@ -1,3 +1,7 @@
+"""
+
+"""
+
 def main():
     n = int(input())
     scores = []
@@ -19,7 +23,7 @@ def main():
     str1 = str(scores_new[2])
     str2 = str(counter)
 
-    print(str1 +   + str2)
+    print(str1 + " " + str2)
 
 
 main()
