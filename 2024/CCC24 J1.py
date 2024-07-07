@@ -1,7 +1,7 @@
 """
-
+CCC '24 J1 - 'Conveyor Belt Sushi'
 Problem link: https://dmoj.ca/problem/ccc24j1
-
+Score received : 15/15
 """
 
 def main():
