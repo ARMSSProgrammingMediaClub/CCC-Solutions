@@ -2,9 +2,9 @@ The Canadian Computing Competition (CCC) is an annual programming competition fo
 <br />
 Students answer 5 competive programming questions in approved languages including Python, C++, Javascript, and are graded out of 75 points.
 
-# **Our club CCC scores**
+## **Our club CCC scores**
 **Junior 2024** (first time)
 - Brandon: 45/75
-- Nick: ??/75
+- Nick: 54/75
 
 
