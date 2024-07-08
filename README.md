@@ -3,7 +3,7 @@ Students answer 5 competive programming questions in approved languages includin
 
 # **Our club CCC scores**
 **Junior 2024**
-• Brandon: 45/75
-• Nick: ??/75
+- Brandon: 45/75
+- Nick: ??/75
 
 
