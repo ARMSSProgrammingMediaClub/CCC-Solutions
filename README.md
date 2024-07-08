@@ -6,5 +6,6 @@ Students answer 5 competive programming questions in approved languages includin
 **Junior 2024** (first time)
 - Nick: 54/75
 - Brandon: 45/75
+- Daniel: 0/75 
 
 
