@@ -2,6 +2,9 @@ The Canadian Computing Competition (CCC) is an annual programming competition fo
 <br />
 Students answer 5 competive programming problems in approved languages including Python2/3, C, C++, and Java. Problem set is graded out of 75 points.
 
+Past competitions and practice clients can be found here:
+- https://cemc.uwaterloo.ca/contests/ccc-cco.html
+- https://dmoj.ca
 ## **Our club CCC scores**
 **Junior 2024** (first time)
 - Nick: 54/75
