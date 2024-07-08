@@ -7,8 +7,8 @@ Past competitions and practice clients can be found here:
 - https://dmoj.ca
 ## **Our club CCC scores**
 **Junior 2024** (first time)
-- Nick: 54/75
-- Brandon: 45/75
-- Daniel: 0/75 
+- Nick: 54/75 (J1, J2, J3 - 15/15, J4 - 8/15, J5 - 1/15)
+- Brandon: 45/75 (J1, J2, J3 - 15/15)
+- Daniel: 0/75
 
 
