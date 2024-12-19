@@ -31,5 +31,5 @@ for x in range(len(instructions)):
         elif instructions[x][y] == '+':
             direction = "tighten"
             numStart = y
-    print(''.join(letters), ,direction, ,''.join(instructions[x][numStart + 1:]))
+    print(''.join(letters), direction, ''.join(instructions[x][numStart + 1:]))
     letters.clear()
