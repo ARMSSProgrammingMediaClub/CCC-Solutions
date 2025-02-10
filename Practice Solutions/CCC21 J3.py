@@ -9,6 +9,6 @@ while True:
             direction = "right"
         elif firstTwo % 2 != 0: #if odd direction is left
             direction = "left"
-        else: pass # if equal to zero, takes in last direciton used
+        else: pass # if equal to zero, takes in last direction used
         print(direction, num[2:]) #prints decoded version to console before looping again
     else: break
