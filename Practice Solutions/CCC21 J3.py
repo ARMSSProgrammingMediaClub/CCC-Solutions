@@ -10,5 +10,5 @@ while True:
         elif firstTwo % 2 != 0: #if odd direction is left
             direction = "left"
         else: pass # if equal to zero, takes in last direciton used
-        print(direction + " " + num[2:]) #prints decoded version to console before looping again
+        print(direction, num[2:]) #prints decoded version to console before looping again
     else: break
