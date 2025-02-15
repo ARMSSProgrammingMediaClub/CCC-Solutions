@@ -1,13 +1,20 @@
 #finally solved 
-pressed = input()
+
+"""
+Thinking process:
+1. Find unique characters by creating sets of pressed and displayed characters 
+2. Find possible troublesome keys by finding differences between both sets (two differenced sets, one for if in pressed but not in displayed and another for in displayed and not in pressed)
+3. If there is only 1 troublesome key, we know that there is no quiet key so we immediately know which keys are silly
+4. To differentiate between quiet and silly keys, we will test both possible troublesome keys by mimicking the effects of both the silly and quiet key onto pressed
+5. If not the first case, its the other.
+
+"""
+pressed = input() 
 displayed = input()
 
-pressed_set = set(pressed)
-displayed_set = set(displayed)
-difference_pressed = pressed_set.difference(displayed_set) # in pressed but not in displayed
-difference_displayed = displayed_set.difference(pressed_set) # in displayed but not in pressed
-difference_pressed = list(difference_pressed)
-difference_displayed = list(difference_displayed)
+pressed_set, displayed_set = set(pressed), set(displayed) #find unique characters
+difference_pressed, difference_displayed = pressed_set.difference(displayed_set), displayed_set.difference(pressed_set) # in pressed but not in displayed and in displayed but not in pressed
+difference_pressed, difference_displayed  = list(difference_pressed), list(difference_displayed) #turn into list for indexing
 
 if len(difference_pressed) == 1: #if there is only 1 troublesome key, that is the silly key. there is no quiet key
     print(*difference_pressed, *difference_displayed)
