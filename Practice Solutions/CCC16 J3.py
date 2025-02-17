@@ -1,4 +1,5 @@
 #cool brute force solution using nested forloops to splice indexes, might try using implementation of manacher's algorithm as well
+n = list(input())
 lengths = []
 for i in range(len(n)):
     for j in range(len(n)):
