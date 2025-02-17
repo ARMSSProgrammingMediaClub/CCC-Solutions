@@ -2,6 +2,7 @@
 CCC '24 J4 "Bronze Count"
 Problem Link: https://dmoj.ca/problem/ccc24j3
 Score Received: 15/15
+See Practice Solutions folder for much faster solution
 """
 
 def main():
